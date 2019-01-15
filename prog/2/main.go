@@ -50,7 +50,7 @@ func main() {
 			break
 		}
 	}
-	fmt.Printf("Ваш счет: %v", result)
+	fmt.Printf("Ваш счет: %v рублей", result)
 }
 
 type Iterator struct {
